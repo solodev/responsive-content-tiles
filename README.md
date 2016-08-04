@@ -1,4 +1,4 @@
-# responsive-content-tiles
+# Responsive Content Titles
 The web is filled with quality content but its presentation has never been more paramount. This code shows you how to implement a popular way of displaying content on your website using responsive tiles. [Solodev](https://www.solodev.com/) will show you how to create tiles which, when clicked, redirect to a page based on the subject of that particular tile. 
 
 ## Tutorial
